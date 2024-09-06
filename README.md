@@ -23,3 +23,7 @@ GPT x WinActorの活用事例①
 
 ・何も入力せずにOKを押すと、シナリオが終了します。
 
+・以下のファイルを同じフォルダに保存してWinActorから実行してください。
+* GPTによる住所名前の項目分けサンプル.ums7
+* GPTtest.xlsx
+* prompt240901.txt
